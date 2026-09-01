@@ -19,6 +19,9 @@ The AWS Console Home serves as the main page of the AWS Management Console. From
 ## 4. Four Core Services
 
 ### Amazon EC2
+Amazon Elastic Compute Cloud (Amazon EC2) is an AWS service that provides on-demand and scalable computing capacity through virtual servers in the cloud. An EC2 instance is a virtual server that can be configured with different amounts of computing power, memory, storage, and networking resources depending on the needs of an application.
+
+EC2 allows organizations to launch, configure, and manage virtual servers without purchasing physical hardware. It can also scale computing capacity up or down as workload requirements change, making it suitable for web applications, enterprise applications, high-performance computing, and other workloads.
 
 ### Amazon S3
 
