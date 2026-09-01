@@ -2,6 +2,8 @@
 
 ## 1. Brief Overview
 
+Amazon Web Services (AWS) is a cloud computing platform that provides a wide range of on-demand cloud services. These services include computing, storage, databases, networking, security, analytics, and artificial intelligence. AWS launched its cloud infrastructure services in 2006 and uses a pay-as-you-go model, allowing organizations to access computing resources without purchasing and maintaining all physical infrastructure themselves.
+
 ## 2. Global Infrastructure
 
 ## 3. Cloud Management Console
