@@ -94,6 +94,6 @@ Azure can also be used for disaster recovery and business continuity by distribu
 
 ## 7. Screenshot
 
-![Azure Portal](screenshots/azure-homepage.png)
+Screenshot 2026-09-01 135518
 
 **Figure 1. Microsoft Azure Portal**
