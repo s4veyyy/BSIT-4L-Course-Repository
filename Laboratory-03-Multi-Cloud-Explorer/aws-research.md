@@ -24,6 +24,9 @@ Amazon Elastic Compute Cloud (Amazon EC2) is an AWS service that provides on-dem
 EC2 allows organizations to launch, configure, and manage virtual servers without purchasing physical hardware. It can also scale computing capacity up or down as workload requirements change, making it suitable for web applications, enterprise applications, high-performance computing, and other workloads.
 
 ### Amazon S3
+Amazon Simple Storage Service (Amazon S3) is an object storage service that allows users to store, manage, and retrieve data in the AWS Cloud. S3 stores data as objects inside containers called buckets, and each object can contain a file and its associated metadata.
+
+Amazon S3 is designed for scalability, data availability, security, and performance. It can be used for many purposes, including storing website files, mobile application data, backups, archives, data lakes, and data used for analytics and artificial intelligence.
 
 ### Amazon VPC
 
