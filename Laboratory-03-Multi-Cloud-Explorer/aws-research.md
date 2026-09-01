@@ -12,6 +12,10 @@ This infrastructure helps organizations build applications that are highly avail
 
 ## 3. Cloud Management Console
 
+The AWS Management Console is a web-based application that provides centralized access to AWS services. It allows users to search for and open individual AWS service consoles, manage AWS resources, view notifications, access account and billing information, and configure console settings. The console also provides access to AWS CloudShell, which allows users to run AWS CLI commands directly from a web browser.
+
+The AWS Console Home serves as the main page of the AWS Management Console. From this page, users can access AWS services and manage their cloud resources through a unified web interface.
+
 ## 4. Four Core Services
 
 ### Amazon EC2
