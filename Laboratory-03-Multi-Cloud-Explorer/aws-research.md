@@ -6,6 +6,10 @@ Amazon Web Services (AWS) is a cloud computing platform that provides a wide ran
 
 ## 2. Global Infrastructure
 
+AWS Global Infrastructure is built around Regions and Availability Zones. An AWS Region is a separate geographic area that contains multiple Availability Zones. Availability Zones are isolated locations within a Region, and each consists of one or more data centers with redundant power, networking, and connectivity.
+
+This infrastructure helps organizations build applications that are highly available, fault tolerant, and scalable. AWS also provides Local Zones and Wavelength Zones for applications that need resources closer to end users or very low latency for 5G applications.
+
 ## 3. Cloud Management Console
 
 ## 4. Four Core Services
