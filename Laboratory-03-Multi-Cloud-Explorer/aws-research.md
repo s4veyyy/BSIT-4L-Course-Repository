@@ -64,4 +64,4 @@ AWS can also support disaster recovery and highly available applications by allo
 
 ## 7. Screenshot
 
-![AWS Homepage](screenshots/aws-homepage.png)
+![AWS Homepage](screenshots/aws-homepages.png)
