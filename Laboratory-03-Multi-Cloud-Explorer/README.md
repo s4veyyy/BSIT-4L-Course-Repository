@@ -8,9 +8,13 @@ The purpose of this investigation is to understand the basic characteristics of 
 
 ---
 
+screenshots/killercoda-terminal.png
+
 ## 1. Operating System
 
 ### Command Used
 
 ```bash
 cat /etc/os-release
+
+
