@@ -88,4 +88,4 @@ Azure is particularly suitable for organizations that already depend heavily on 
 
 ## 7. Screenshot
 
-![Azure Portal](screenshots/azure-homepage.png)
+![Azure Portal](screenshots/azure-homepages.png)
