@@ -29,6 +29,9 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that allo
 Amazon S3 is designed for scalability, data availability, security, and performance. It can be used for many purposes, including storing website files, mobile application data, backups, archives, data lakes, and data used for analytics and artificial intelligence.
 
 ### Amazon VPC
+Amazon Virtual Private Cloud (Amazon VPC) is a networking service that allows users to create a logically isolated virtual network within the AWS Cloud. It provides control over the network environment, including IP address ranges, subnets, route tables, and network gateways.
+
+Amazon VPC allows organizations to organize and connect their AWS resources in a controlled network environment. It can be used to connect resources to the internet, other VPCs, or an organization's on-premises network while providing networking and security configuration options.
 
 ### AWS IAM
 
