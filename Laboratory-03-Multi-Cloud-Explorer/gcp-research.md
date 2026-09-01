@@ -94,6 +94,6 @@ Google Cloud can also support global applications by allowing organizations to d
 
 ## 7. Screenshot
 
-![Google Cloud Console](screenshots/gcp-homepage.png)
+![Google Cloud Console](screenshots/gcp-homepages.png)
 
 **Figure 1. Google Cloud Console**
