@@ -61,5 +61,6 @@ I learned how to compare Virtual Machines and Containers, use basic Docker comma
 One challenge I encountered was that the KillerCoda environment was refreshed, which caused the Docker container to disappear. I learned that the playground environment is temporary and that containers may need to be recreated after a refresh. I was able to solve this by running the Docker commands again and verifying the container status.
 
 ## Mission Reflection
+This laboratory helped me understand how Docker containers are different from traditional Virtual Machines. A Docker container can start much faster because it does not need to boot a complete operating system like a Virtual Machine. Instead, containers share the host operating system, which makes them more lightweight and efficient. This makes container deployment faster and more practical for web applications.
 
 My reflection about the laboratory activity is documented in the `reflection.md` file.
