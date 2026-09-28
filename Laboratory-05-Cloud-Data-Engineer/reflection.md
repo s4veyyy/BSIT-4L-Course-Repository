@@ -11,5 +11,3 @@ Large enterprise companies typically protect against data loss by replicating da
 Doing this activity also made me more comfortable with the Linux command line. I ran into a real problem when I accidentally deleted my running container using docker rm right after deploying it, which taught me to be more careful about which commands to run and when. Troubleshooting that on my own, and verifying the fix using docker ps, made me more confident that I can recover from mistakes instead of getting stuck.
 
 ---
-
-*AI Disclosure: I used Claude AI to help troubleshoot Docker/MinIO deployment issues during this activity and to help draft and organize this reflection. I reviewed and edited the content to reflect my own experience and understanding.*
