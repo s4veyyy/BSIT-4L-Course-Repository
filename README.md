@@ -1,9 +1,31 @@
-# BSIT 4-L Course Repository
+# Laboratory 10: Enterprise Cloud Architect
 
-**Name:** Angelo Gutoman
+## Mission Overview
+A secure, automated, multi-tier private cloud storage system. Nextcloud (web tier) and MariaDB (database tier) run as Docker containers on an Ubuntu Server VM in VirtualBox, deployed with Docker Compose.
 
-**Course & Section:** BSIT 4-L
+## Stack
+| Layer | Technology |
+|---|---|
+| Hypervisor | VirtualBox (Type 2) |
+| OS | Ubuntu Server 26.04 LTS |
+| Containers | Docker Engine + Docker Compose |
+| Web tier | Nextcloud |
+| Database tier | MariaDB 10.6 |
+| Firewall | UFW (default deny incoming) |
+| Automation | Bash script + cron |
 
-## About This Repository
+## Requirements Checklist
+- Architecture diagram: `architecture-diagram.png`
+- Ubuntu Server VM reachable from the host browser (NAT port forwarding)
+- Multi-container stack with persistent volumes: `docker-compose.yml`
+- UFW enabled, default deny, only ports 22 and 8080 allowed
+- Backup script `automation-script.sh`, scheduled with cron at 2:00 AM daily
+- Operational manual: `operational-manual.md`
+- Final reflection: `final-reflection.md`
 
-This repository is created for academic purposes as part of my Bachelor of Science in Information Technology coursework. It will be used to organize and store school activities, projects, exercises, and other learning materials.
+## Files
+- `architecture-diagram.png`
+- `docker-compose.yml`
+- `automation-script.sh`
+- `operational-manual.md`
+- `final-reflection.md`
